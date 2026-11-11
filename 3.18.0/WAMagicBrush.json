@@ -1,0 +1,14 @@
+{
+  "plugins": {
+    "sclRectPaletteLib": {
+      "version": "latest",
+      "provider": "MagicSclPublicService"
+    }
+  },
+  "publicservices": {
+    "sclRectPaletteLib": {
+      "version": "latest",
+      "provider": "MagicSclPublicService"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@haidilao-private/minihost-baselib",
+  "version": "0.1.0",
+  "private": true,
+  "description": "WeChat Mini Program base libraries for MiniHost",
+  "license": "SEE LICENSE IN README.md",
+  "files": [
+    "3.7.0",
+    "3.18.0",
+    "README.md"
+  ]
+}

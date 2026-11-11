@@ -1,0 +1,145 @@
+{
+  "updateTime": "2026.11.2 23:18:36",
+  "profile": "release",
+  "version": "3.18.0",
+  "features": {
+    "pruneWxConfigByPage": true,
+    "injectGameContextPlugin": true,
+    "lazyCodeLoading2": true,
+    "lazyCodeLoadingForDevTool": true,
+    "injectAppSeparatedPlugin": true,
+    "nativeTrans": true,
+    "gameLive": true,
+    "skyline": true,
+    "supportInvokeWithAppId": true,
+    "supportAudits": true,
+    "wkFeatureVersion": 5,
+    "delayedServiceCodeCache": true,
+    "gameLiveInvite": true,
+    "globalConsole": true,
+    "earlyDispatchSubPkgReady": true,
+    "glassEasel": 1,
+    "supportListenNewPerformanceMetric": true,
+    "collectInvokeCost": true,
+    "externalDebug": 2,
+    "gameComponent": true,
+    "supportGetOriginalUrl": true,
+    "supportHandleMultiTaskGesture": 1,
+    "agentDetailPageSubContext": 0,
+    "expt": [
+      "clicfg_appbrand_ios_native_socket_wcwss_new",
+      "clicfg_appbrand_report_trace_event",
+      "clicfg_appbrand_skyline_text_style",
+      "clicfg_appbrand_ios_allow_worker_binding_message",
+      "clicfg_appbrand_ios_arkit2wevision_usevertialplane",
+      "clicfg_appbrand_ios_use_jsapi_args_binding",
+      "clicfg_appbrand_webview_slow_frame",
+      "clicfg_appbrand_webview_native_intersection_observer",
+      "clicfg_appbrand_ios_control_close_condom_white",
+      "clicfg_appbrand_android_control_close_condom_white",
+      "clicfg_appbrand_android_use_game_delay_codecache",
+      "clicfg_appbrand_ios_game_shangcheng_kefu",
+      "clicfg_appbrand_ios_force_enable_aiad",
+      "clicfg_appbrand_android_force_enable_aiad",
+      "clicfg_appbrand_enable_batch_load_sub_pkg",
+      "clicfg_appbrand_ios_enable_aiad_debug_button",
+      "clicfg_appbrand_android_enable_aiad_debug_button",
+      "clicfg_appbrand_ios_enable_aiad_tag",
+      "clicfg_appbrand_android_enable_aiad_tag",
+      "clicfg_appbrand_ios_force_use_audio_dynamic_new",
+      "clicfg_appbrand_android_force_use_audio_dynamic_new",
+      "clicfg_appbrand_fix_webaudio_delay_autoplay",
+      "clicfg_wxa_report_ssid",
+      "clicfg_miniprogram_global_translate_android",
+      "clicfg_miniprogram_global_translate_ios",
+      "clicfg_appbrand_android_ad_operatewxdata_batch",
+      "clicfg_appbrand_ios_ad_operatewxdata_batch",
+      "clicfg_appbrand_ios_operatewxdata_batch",
+      "clicfg_appbrand_android_operatewxdata_batch",
+      "clicfg_appbrand_ios_enable_jsopdata_mock",
+      "clicfg_appbrand_ios_android_aiad_interstitial_cache_time",
+      "clicfg_appbrand_ios_operatewxdata_priority",
+      "clicfg_appbrand_android_operatewxdata_priority",
+      "clicfg_appbrand_ios_operatewxdata_priority_group_control",
+      "clicfg_appbrand_android_operatewxdata_priority_group_control",
+      "clicfg_appbrand_ios_android_check_api_params_report",
+      "clicfg_appbrand_android_use_webworker",
+      "clicfg_appbrand_ios_android_check_api_params_report",
+      "clicfg_appbrand_business_evaluate",
+      "clicfg_appbrand_android_business_cralwer",
+      "clicfg_appbrand_ios_request_enable_h2h3_group_control",
+      "clicfg_appbrand_ios_request_enable_h2h3",
+      "clicfg_appbrand_enable_autopreload_subpkg_rate_all_wifi",
+      "clicfg_wegame_jitruntime_enable_touch_in_client",
+      "clicfg_appbrand_enable_glass_easel_webview",
+      "clicfg_appbrand_enable_glass_easel_webview_version",
+      "clicfg_appbrand_ohos_xnet",
+      "clicfg_appbrand_android_use_new_webworker",
+      "clicfg_minigame_enable_cmdbuffer_canvas2d",
+      "clicfg_product_component_forced_pull_harmony",
+      "clicfg_appbrand_ios_use_multicontext_worker",
+      "clicfg_wegame_jitruntime_lite_mode_feat_bit",
+      "clicfg_appbrand_action_recorder_v1",
+      "mmbiz_wxapull_xw_bubble"
+    ],
+    "exptNeedParams": [
+      "clicfg_miniprogram_open_admb_in_motivating_v3",
+      "clicfg_miniprogram_open_admb2_in_motivating",
+      "drama_card_pack_default_price",
+      "drama_card_pack_started_price",
+      "drama_card_pack_dynamic_ratio",
+      "drama_card_pack_dynamic_ratio_high",
+      "drama_card_pack_dynamic_ratio_medium",
+      "drama_card_pack_dynamic_ratio_low",
+      "drama_card_pack_price_template",
+      "clicfg_miniprogram_rewardad_caremode",
+      "clicfg_miniprogram_videoad_show_pendiing",
+      "clicfg_miniprogram_videoad_preload",
+      "clicfg_appbrand_enable_get_system_info_proxy",
+      "clicfg_miniprogram_reward_ad_mb_convert_opt_0225",
+      "clicfg_miniprogram_reward_ad_mb_preload_opt_0312"
+    ],
+    "snapshotConfig": {
+      "game:main": [
+        "WAGame.js"
+      ],
+      "game:sub": [
+        "WAGameSubContext.js"
+      ]
+    },
+    "mayHaveSnapshot": [
+      "WAServiceMainContext.js",
+      "WASubContext.js",
+      "WARenderContext.js",
+      "WAGame.js",
+      "WAGameSubContext.js",
+      "WAAgentPageSubContext.js"
+    ],
+    "pcSnapshotConfig": {
+      "minigame": {
+        "iframeDomain": {
+          "mainContext": [
+            "WAGame.js"
+          ],
+          "gameContext": [
+            "WAGameSubContext.js"
+          ]
+        },
+        "workerDomain": {}
+      },
+      "miniprogram": {
+        "iframeDomain": {},
+        "workerDomain": {
+          "main_context": [
+            "WAServiceMainContext.js"
+          ],
+          "sub_context": [
+            "WASubContext.js"
+          ]
+        }
+      }
+    },
+    "privacyApiVersion": 3
+  },
+  "debugOptions": {}
+}

@@ -1,0 +1,1 @@
+this.__wxLibrary={fileName:"WAService.js",envType:"Service",contextType:"App:Uncertain",execStart:Date.now(),mayHaveSnapshot:!1};var __WAServiceStartTime__=this.__wxLibrary.execStart,__WAServiceEndTime__=Date.now();"object"==typeof this.__wxLibrary&&"function"==typeof this.__wxLibrary.onEnd&&this.__wxLibrary.onEnd(),delete this.__wxLibrary;

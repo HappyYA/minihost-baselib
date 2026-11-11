@@ -1,0 +1,1 @@
+this.__wxLibrary={fileName:"WAAutoWebview.js",envType:"WebView",contextType:"others",execStart:Date.now(),mayHaveSnapshot:!1};var __WAAutoWebviewStartTime__=this.__wxLibrary.execStart,__WAAutoWebviewEndTime__=Date.now();"object"==typeof this.__wxLibrary&&"function"==typeof this.__wxLibrary.onEnd&&this.__wxLibrary.onEnd(),delete this.__wxLibrary;
